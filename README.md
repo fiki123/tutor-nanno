@@ -2,11 +2,11 @@
 ### A. Cara copy IP komputer Depan untuk di akses di komputer Belakang
 Kenapa agak ribet, karena sistem yang di pakai adalah offline, kalau sistem secara online tidak perlu melakukan setting seperti ini.
 1. Klik "Start" di windows lalu ketik "CMD" dan klik aplikasi CMD
-<img src="https://gitlab.com/guru-ahli1/tutorial-nanno-nonna/-/raw/main/gambar/n-1.png" width="500">
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/n-1.png" width="500">
 
 
 2. Ketik "ipconfig" contoh di gambar bawah ini
-<img src="https://gitlab.com/guru-ahli1/tutorial-nanno-nonna/-/raw/main/gambar/N2.png" width="500">
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/N2.png" width="500">
 
 3. copy ipv4 atau catat di catatan
 4. lalu pergi ke komputer belakang
@@ -17,9 +17,9 @@ Kenapa agak ribet, karena sistem yang di pakai adalah offline, kalau sistem seca
 ### B. Cara mencetak Barcode
 1. Buka aplikasi "nanno nonna" di komputer belakang dengan cara seperti di atas tadi
 2. buka "master data" -> "Data Barang" ->"Pilih folder" yang akan di cetak barcodennya. contoh gambar di bawah ini
-<img src="https://gitlab.com/guru-ahli1/tutorial-nanno-nonna/-/raw/main/gambar/n3.png" width="500">
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/n3.png" width="500">
 
 3. Klik menu "Cetak Barcode"
-<img src="https://gitlab.com/guru-ahli1/tutorial-nanno-nonna/-/raw/main/gambar/n4.PNG" width="500">
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/n4.PNG" width="500">
 
 
