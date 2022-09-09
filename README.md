@@ -26,8 +26,11 @@ Kenapa agak ribet, karena sistem yang di pakai adalah offline, kalau sistem seca
 ### C. Membuat setting ukuran kertas untuk Printer Thermal
 1. bisa di baca di sini : https://omfiki.blogspot.com/2022/08/menambah-dan-membuat-ukuran-kertas-baru.html
 
+### D. Setting kertas pada saat akan mencetak barcode
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/n7.PNG" width="500">
+<img src="https://github.com/fiki123/tutor-nanno/blob/main/gambar/n8.PNG" width="500">
 
-### D. Cara menaruh kertas barcode di PRINTER BIASA
+### E. Cara menaruh kertas barcode di PRINTER BIASA
 ket : Printer biasa maksudnya adalah printer yang bukan untuk mencetak nota POS. 
 Printe Biasa ini digunakan untuk mencetak barcode ke kertas barcode untuk di tempel.
 
